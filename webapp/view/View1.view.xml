@@ -9,7 +9,7 @@
 					        title="{ProductName}" />
 					</List>
 				</content>
-			</Page>
+			</Page  >
 		</pages>
 	</App>
 </mvc:View>
