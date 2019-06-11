@@ -6,7 +6,7 @@
 				<content>
 					<List items="{/Products}" >
 						<StandardListItem type="Navigation"       press="handleListItemPress"
-					        title="{ProductName}" />
+					        title="{ProductName}" numberUnit="{UnitPrice}" />
 					</List>
 				</content>
 			</Page  >
