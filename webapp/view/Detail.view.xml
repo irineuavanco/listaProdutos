@@ -9,6 +9,7 @@
 			<Text text="{UnitPrice}" />
 			<Text text="{QuantityPerUnit}" />
 			<Text text="{UnitsInStock}" />
+			<Text text="{Discontinued}" />
 		</VBox>
 	</Page>
 </mvc:View>
